@@ -89,6 +89,3 @@ project
 ## Repository Link
 [Web Digitalization of the Hospitality Process Project](https://github.com/bytebender77/Web_Digitalization-of-the-Hospitality-Process-Project.git)
 
----
-
-Submit this GitHub repository link in the provided Google form. Ensure your code is well-commented and organized for clarity. If you need any further assistance, feel free to ask!
